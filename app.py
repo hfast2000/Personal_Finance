@@ -1,7 +1,4 @@
 from account import Account
-import Recurring_Payment
-print(dir(Recurring_Payment))
-
 from Recurring_Payment import RecurringPayment
 from Visualizations import plot_pie_chart, plot_income_vs_expense
 
