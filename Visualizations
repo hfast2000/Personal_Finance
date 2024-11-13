@@ -1,5 +1,0 @@
-list = [0,2,2,3,3,4]
-x = 0
-for i in list:
-    x = i+x
-print(x)
